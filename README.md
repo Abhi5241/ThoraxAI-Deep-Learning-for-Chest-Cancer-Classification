@@ -1,5 +1,6 @@
 # ThoraxAI-Deep-Learning-for-Chest-Cancer-Classification
 
+## Dataset Link
  - [Data link](https://drive.google.com/file/d/1z0mreUtRmR-P-magILsDR3T7M6IkGXtY/view?usp=sharing)
 
 ## Workflows
@@ -15,7 +16,7 @@
 
 
 
-## Live matarials docs
+## Live matarials 
 
 [link](https://docs.google.com/document/d/1UFiHnyKRqgx8Lodsvdzu58LbVjdWHNf-uab2WmhE0A4/edit?usp=sharing)
 
